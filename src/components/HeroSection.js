@@ -21,7 +21,7 @@ function HeroSection() {
             {/* Контент */}
             <div className="hero-content text-center relative z-10">
                 <div className="w-full">
-                    <h1 className="lg:text-5xl text-3xl text-white/70 font-bold">Заправка картриджей в Астане</h1>
+                    <h1 className="lg:text-5xl text-3xl text-white/70 font-bold">Картридж для принтера</h1>
                     <p className="py-6 text-white/80">Профессиональная заправка картриджей в Астане с гарантией качества. <br/>Мы предоставляем услуги по восстановлению и заправке картриджей для всех типов принтеров.</p>
                     <WhatsAppButton />
                 </div>
