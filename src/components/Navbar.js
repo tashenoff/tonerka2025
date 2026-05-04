@@ -42,7 +42,7 @@ function Navbar() {
                         </ul> */}
                     </div>
                     <a href="/" className="btn btn-ghost lg:text-xl text-sm">
-                    <img className='w-[100px]' src='/images/1/logo.jpg'/>
+                    <img className='w-[100px]' src='/images/1/logo.jpg' alt='Логотип компании'/>
 
                     </a>
                 </div>
